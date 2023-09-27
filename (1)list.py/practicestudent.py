@@ -1,0 +1,10 @@
+s1 = input("enter the number of student: 1")
+s2 = input("enter the number of student: 2")
+s3 = input("enter the number of student: 3")
+s4 = input("enter the number of student: 4")
+s5 = input("enter the number of student: 5")
+s6 = input("enter the number of student: 6")
+s7 = input("enter the number of student: 7")
+mylist = [s1, s2, s3, s4, s5, s6, s7] 
+mylist.sort()
+print(mylist)
